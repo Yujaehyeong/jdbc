@@ -14,7 +14,7 @@ public class MyDriverTest {
 			Class.forName("driver.MyDriver"); // DB와의 연결을 제공하는 Driver
 
 			// 2. 연결하기
-			String url = "jdbc:mydb://192.168.1.250:3307/webdb";
+			String url = "jdbc:mydb://192.168.1.20:3307/webdb";
 			conn = DriverManager.getConnection(url, "webdb", "webdb");
 
 			System.out.println("연결성공"+ conn);
