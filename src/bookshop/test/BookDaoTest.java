@@ -9,12 +9,12 @@ import bookshop.vo.BookVo;
 public class BookDaoTest {
 
 	public static void main(String[] args) {
-		insert("아리랑", 2L);
-		insert("젊은그들", 3L);
-		insert("아프니까 청춘이다", 4L);
-		insert("귀천", 5L);
-		insert("태백산맥", 2L);
-		insert("풀하우스", 6L);
+//		insert("아리랑", 2L);
+//		insert("젊은그들", 3L);
+//		insert("아프니까 청춘이다", 4L);
+//		insert("귀천", 5L);
+//		insert("태백산맥", 2L);
+//		insert("풀하우스", 6L);
 
 		getListTest();
 	}

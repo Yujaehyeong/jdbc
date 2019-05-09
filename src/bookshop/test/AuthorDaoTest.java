@@ -9,12 +9,12 @@ public class AuthorDaoTest {
 
 	public static void main(String[] args) {
 		
-		insertTest("스테파니메이어");
-		insertTest("조정래");
-		insertTest("김동인");
-		insertTest("김난도");
-		insertTest("천상병");
-		insertTest("원수연");
+//		insertTest("스테파니메이어");
+//		insertTest("조정래");
+//		insertTest("김동인");
+//		insertTest("김난도");
+//		insertTest("천상병");
+//		insertTest("원수연");
 		
 		getListTest();
 	}
